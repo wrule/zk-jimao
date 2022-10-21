@@ -1,4 +1,14 @@
 {
+  "name": "zk-jimao",
+  "version": "0.1.0",
+  "main": "index.js",
+  "scripts": {
+    "build": "truffle compile",
+    "migrate": "truffle migrate"
+  },
+  "repository": "https://github.com/wrule/zk-jimao.git",
+  "license": "MIT",
+  "private": false,
   "dependencies": {
     "@openzeppelin/contracts": "^4.7.3"
   }
